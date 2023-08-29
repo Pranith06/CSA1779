@@ -1,0 +1,10 @@
+planet(mars).
+planet(jupiter).
+planet(earth).
+planet(pluto).
+planet(saturn).
+planet(mercury).
+planet(mars).
+
+live(X):-planet(x).
+
